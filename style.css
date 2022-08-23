@@ -1,0 +1,56 @@
+body{
+    background-color: yellowgreen;
+}
+
+.h1{
+    font-family:times;
+    font-style:italic;
+    font-weight: 350px;
+}
+
+.h4{
+    font-style: oblique;
+    
+}
+
+#camera{
+width:100;
+height:100;
+border-color: brown;
+}
+
+#result1{
+    width: 50;
+    border-radius: 20px;
+    padding:10px;
+    box-shadow: lavenderblush;
+
+}
+
+#result2{
+    width: 50
+    border-radius;
+    padding: 10px;
+    box-shadow: blanchedalmond;
+    
+}
+
+#result3{
+    width: 50;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow:royalblue;
+
+}
+
+#result1:hover{
+    transform: scale(1.5);
+}
+
+#result2:hover{
+    transform: scale(1.5);
+}
+
+#result3:hover{
+    transform: scale(1.5);
+}
